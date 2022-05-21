@@ -38,7 +38,7 @@ const Navbar = () => {
             ) : (
                 <div>
                     <Link to="/login">
-                        <button className="text-white pr-4 ">Sign In</button>
+                        <button className="text-white pr-4 ">Login</button>
                     </Link>
                     <Link to="/signup">
                         <button className="bg-red-600 px-6 py-2 rounded cursor-pointer text-white">
